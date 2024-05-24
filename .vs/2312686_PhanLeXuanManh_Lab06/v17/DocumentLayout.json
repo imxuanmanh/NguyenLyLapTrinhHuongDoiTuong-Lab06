@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|g:\\my drive\\nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\lab 6\\2312686_phanlexuanmanh_lab06\\2312686_phanlexuanmanh_lab06\\displaymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\displaymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_phanlexuanmanh_lab06\\danhsachanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\danhsachanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_phanlexuanmanh_lab06\\ianpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\ianpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_phanlexuanmanh_lab06\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_phanlexuanmanh_lab06\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_phanlexuanmanh_lab06\\tapchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\tapchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_phanlexuanmanh_lab06\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_phanlexuanmanh_lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F241E64-C697-4E6A-BB08-46EA7DF6F2DD}|2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06.csproj|solutionrelative:2312686_phanlexuanmanh_lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Color.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Color.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\Color.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Color.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:21:34.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayMenu.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\DisplayMenu.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\DisplayMenu.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\DisplayMenu.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\DisplayMenu.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAgwLgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:44:48.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSachAnPham.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\DanhSachAnPham.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\DanhSachAnPham.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\DanhSachAnPham.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\DanhSachAnPham.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAMwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:37:07.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAnPham.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\IAnPham.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\IAnPham.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\IAnPham.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\IAnPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:19:39.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TapChi.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\TapChi.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\TapChi.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\TapChi.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\TapChi.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwEMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:33:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bao.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Bao.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\Bao.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Bao.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\Bao.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:35:40.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Sach.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\Sach.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Sach.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\Sach.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA5wEkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:21:02.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Program.cs",
+              "RelativeDocumentMoniker": "2312686_PhanLeXuanManh_Lab06\\Program.cs",
+              "ToolTip": "G:\\My Drive\\Nguy\u00EAn l\u00FD l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Lab 6\\2312686_PhanLeXuanManh_Lab06\\2312686_PhanLeXuanManh_Lab06\\Program.cs",
+              "RelativeToolTip": "2312686_PhanLeXuanManh_Lab06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:34:14.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
